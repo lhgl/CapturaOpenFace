@@ -30,9 +30,9 @@ public class CapturaOpenFace {
                 " -f \"" + videos_path + "\\" + videoName + "\"" +
                 " -out_dir " + videos_path + //salva no mesmo path para processar postumamente
                 " -aus" +
-                //" -verbose" +
-                //" -vis-aus "+
-                //" -tracked "+
+//                " -verbose" +
+//                " -vis-aus "+
+//                " -tracked "+
                 " ";
 
     }
